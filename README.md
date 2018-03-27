@@ -2,6 +2,8 @@
 
 Tarafımdan düzenlenmiştir //Sercan Arğa
 
-Edit TurkMvc 
-Do not look at the bug I could not upload as my project is in the windows 7 32bit project.
-I will find a solution to this in the future
+Düzeneleme TurkMvc
+
+İŞletim Sistemim Windows7 32 Bit Oldugundan Dolayı Projeyi  Yüklemede Sorun Yaşadım Bir Kardeşim [Sercan Arğa] Yardımcı Olabilecegini Söyledi Oda Sanırım Sorun Yaşadı Ve Zip Olarak Yüklendi İleride Çözüm Bulabilirsem Normal Yükleme Yapacagım İnşallah
+
+Github x86 Desteklerse Yani :)
