@@ -1,0 +1,8 @@
+#turn on rewrite engine
+RewriteEngine on
+
+#IF REQUESTED FILE IS NOT A REAL FILE
+RewriteCond %{REQUEST_FILENAME} !-f
+
+#Redirect all rquest to index.php
+RewriteRule . index.php [L]
