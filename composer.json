@@ -16,7 +16,7 @@
         "altorouter/altorouter": "^1.2",
         "philo/laravel-blade": "^3.1",
         "illuminate/database": "^5.4",
-        "phpmailer/phpmailer": "^5.2.7",
+        "phpmailer/phpmailer": "^6.1.6",
         "voku/pagination": "^2.1",
         "nesbot/carbon": "^1.22",
         "stripe/stripe-php": "^5.8"
